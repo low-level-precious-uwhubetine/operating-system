@@ -1,4 +1,4 @@
-# My Operating System
+# Operating System
 
 This is the code for my operating system, written in C++. It is currently under development, but it already includes support for interrupt handling, multitasking, device drivers, a GUI, and a FAT32 filesystem handler.
 
